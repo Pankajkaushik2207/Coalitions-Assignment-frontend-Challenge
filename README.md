@@ -1,4 +1,4 @@
-# Coalition Technologies Job Application Front-End Skill Test
+# Coalition Front-End Skill Test
 
 <img src='./images/CT_SkillTest_v3.png' alt=''>
 
@@ -6,9 +6,10 @@
 
 ## Description: 
 
-This submission represents my skills test for the front-end position at [Coalition Technologies](https://coalitiontechnologies.com/). The objective of this assessment is to evaluate my capability to transform an Adobe Photoshop file into a static, single-page web application. The primary goal is to convert the provided PSD into a responsive single-page website. This entails ensuring that the carousel seamlessly adapts to various screen sizes, and on mobile devices, the tabs should gracefully transition into an accordion layout for improved usability.
 
-Notably, I've introduced internal links on the page, 'History' and 'Team,' providing users with convenient navigation to their respective sections. Furthermore, I've taken the initiative to incorporate a parallax scrolling effect into the landing hero image for the desktop view. 
+This submission showcases my proficiency test for the front-end role at Coalition Technologies. The aim of this evaluation is to assess my ability to translate an Adobe Photoshop design into a static, one-page web application. The primary objective remains to convert the provided PSD into a responsive single-page website. This involves ensuring the seamless adaptation of the carousel to various screen sizes, and for mobile devices, implementing a smooth transition of the tabs into an accordion layout to enhance usability.
+
+Additionally, I've integrated internal page links for 'History' and 'Team,' offering users easy access to their respective sections. Moreover, I've taken the initiative to add a parallax scrolling effect to the landing hero image specifically for the desktop view.
 
 ## Tools Used: 
 
